@@ -7,7 +7,7 @@ Bundles / high-level packages and environments
 
  - a TeX environment
 
- - Emacs
+ - Emacs 24.5
 
  - Clojure
 
@@ -25,16 +25,48 @@ Bundles / high-level packages and environments
 
  - Coq
 
+ - FFTW
+
+ - GCC
+
+ - Geeqie
+
+ - Git
+
 Individual packages:
 
  - bc
 
  - bzip2
 
+ - coq coq-doc
+
  - cracklib cracklib-dicts
 
  - dos2unix
 
  - dosfstools
+
+ - ed
+
+ - emacs emacs-common emacs-filesystem emacs-git emacs-git-el emacs-magit emacs-magit-el
+
+ - ethtool
+
+ - ffmpeg ffmpeg-libs
+
+ - fftw fftw-libs-*
+
+ - flac flac-libs
+
+ - freeglut freeglut-devel
+
+ - fuse fuse-libs
+
+ - gcc
+
+ - geeqie
+
+ - git
 
  - youtube-dl
