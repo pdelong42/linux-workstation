@@ -15,7 +15,7 @@ Bundles / high-level packages and environments
 
  - VLC
 
- - ffmpeg
+ - FFmpeg
 
  - FLAC
 
